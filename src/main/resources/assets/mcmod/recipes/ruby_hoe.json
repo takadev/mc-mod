@@ -1,0 +1,23 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "pattern" : [
+    "XX ",
+    " Y ",
+    " Y "
+  ],
+  "key": {
+    "X" : {
+      "item" : "mcmod:ruby",
+      "data" : 0
+    },
+    "Y" : {
+      "item" : "minecraft:stick",
+      "data" : 0
+    }
+  },
+  "result" : {
+    "item" : "mcmod:ruby_hoe",
+    "data" : 0,
+    "count" : 1
+  }
+}
